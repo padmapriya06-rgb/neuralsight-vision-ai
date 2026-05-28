@@ -1,0 +1,6 @@
+{
+  "name": "Local AI Image Analyzer",
+  "description": "A futuristic dark-themed offline AI image analyzer that integrates with local LM Studio services to extract text, describe scenes, detect objects, and analyze documents completely locally and privately.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
