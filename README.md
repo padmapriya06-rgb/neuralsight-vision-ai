@@ -6,8 +6,6 @@
 
 This is a full-stack, completely **local** AI image analysis application built with **Moondream2** vision model and LM Studio support.
 
-View your app in AI Studio: https://ai.studio/apps/b4292a0b-06de-41b7-b25c-d0dbc162b1b7
-
 ## Features
 
 ✨ **Fully Local & Offline** - All AI inference runs locally on your hardware  
